@@ -1,0 +1,11 @@
+2021-11-28 2:59:06 PM [SERVER STARTED] - webRoot=C:\localWebsite, webIP=192.168.172.1, -port=5050
+2021-11-28 2:59:07 PM GET /index.js
+2021-11-28 2:59:07 PM HTTP/1.1 415 Unsupported Media Type
+2021-11-28 2:59:14 PM GET /index_2.js
+2021-11-28 2:59:14 PM HTTP/1.1 404 Not Found
+2021-11-28 2:59:19 PM GET /register.html
+2021-11-28 2:59:19 PM 
+Content-Type: text/html
+Content-Length: 18556
+Server: ESTEFANIA
+Date: 2021-11-28 2:59:06 PM

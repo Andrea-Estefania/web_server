@@ -1,0 +1,6 @@
+C:\Users\Andrea\Documents\a-ferro-s-sannes\WDD-A6\myOwnWebServer\obj\Debug\myOwnWebServer.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Documents\a-ferro-s-sannes\WDD-A6\myOwnWebServer\bin\Debug\myOwnWebServer.exe.config
+C:\Users\Andrea\Documents\a-ferro-s-sannes\WDD-A6\myOwnWebServer\bin\Debug\myOwnWebServer.exe
+C:\Users\Andrea\Documents\a-ferro-s-sannes\WDD-A6\myOwnWebServer\bin\Debug\myOwnWebServer.pdb
+C:\Users\Andrea\Documents\a-ferro-s-sannes\WDD-A6\myOwnWebServer\obj\Debug\myOwnWebServer.exe
+C:\Users\Andrea\Documents\a-ferro-s-sannes\WDD-A6\myOwnWebServer\obj\Debug\myOwnWebServer.pdb
